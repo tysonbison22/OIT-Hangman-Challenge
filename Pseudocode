@@ -1,0 +1,15 @@
+This is the pseudocode I created before beginning the program
+
+Print Welcome user to the game
+Randomly select word
+Print underscores depending on length of word
+Prompt user to guess a letter
+Display Correct and Incorrect Guesses
+Keep guessing until all correctly guessed
+	Print how many guesses it took
+Ask user if they want to play again or quit
+	If play again, return to start
+	If quit, thank user for playing and quit
+
+Functions:
+- One to print out the word and guess count
