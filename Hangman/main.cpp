@@ -2,7 +2,7 @@
 // File:        Hangman.cpp
 // By:          Tyson Drake
 // Date:        03 November 2022
-// This program runs a version of hangman with 10 preset words.A
+// This program runs a version of hangman with 10 preset words.
 
 //----------------------------------------------------
 
